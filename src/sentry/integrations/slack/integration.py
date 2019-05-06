@@ -72,7 +72,7 @@ class SlackIntegrationProvider(IntegrationProvider):
         'channels:read',
         'groups:read',
         'users:read',
-        'chat:write',
+        'chat:write:bot',
         'links:read',
         'links:write',
         'team:read',
